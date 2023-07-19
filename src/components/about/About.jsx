@@ -25,14 +25,9 @@ const About = () => {
               <small>Больше 2 лет</small>
             </article>
             <article className="about__card">
-              <FiUser className="about__icon"/>
-              <h5>Клиенты</h5>
-              <small>200+ Довольных</small>
-            </article>
-            <article className="about__card">
               <VscFolderLibrary className="about__icon"/>
               <h5>Проекты</h5>
-              <small>80+ Завершенных</small>
+              <small>40+ Завершенных</small>
             </article>
           </div>
           <p>
